@@ -103,8 +103,7 @@ Look at that!  The App component is a JavaScript class. React embraces modern,
 future facing JavaScript features like classes.  Classes, as well as a host of
 other features, were introduced to the JavaScript language as part of [ES6](http://exploringjs.com/es6/index.html),
 or the 6th revision of the language spec. You may be concerned
-about compatibility of these new language features with older browsers.  As a part
-of Webpack, `create-react-app` has configured a build tool called [Babel](https://babeljs.io/)
+about compatibility of these new language features with older browsers.  In combination with Webpack, `create-react-app` has configured a build tool called [Babel](https://babeljs.io/)
 that will transform our code into a backwards compatible form that can run in
 older browsers. This means that we can freely use modern features like classes,
 arrow functions, and more in our app.
